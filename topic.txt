@@ -1,0 +1,4 @@
+Web aplikacija bi bila namenjena drustvenim igrama (nesto kao Mipl).
+Aplikacija bi imala mogucnost registrovanja, logovanja korisnika, pregled svih igara,
+filtracija igara po nekom parametru, ocenjivanje igre i narucivanje igara koje ce se realizovati
+smestanjem zeljenih igara u korpu.
